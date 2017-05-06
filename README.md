@@ -10,4 +10,4 @@ lightGBMM的安装及使用请参考https://github.com/Microsoft/LightGBM
 
 3、使用lightGBM
 
-运行python3 run.py
+可直接运行python3 run.py完成验证过程
