@@ -1,4 +1,4 @@
-这是在腾讯2017广告算法大赛数据集上使用lightGBM的一个简单粗暴小例子，仅供参考
+这是在腾讯2017广告算法大赛数据集上使用lightGBM的一个简单粗暴小例子，仅供新手参考
 
 lightGBMM的安装及使用请参考https://github.com/Microsoft/LightGBM
 
