@@ -29,7 +29,7 @@ X_test = df_test.drop('label', axis=1).values
 
 # create dataset for lightgbm
 lgb_train = lgb.Dataset(X_train, y_train)
-lgb_eval = lgb.Dataset(X_train, y_train, reference=lgb_train)
+lgb_eval = lgb.Dataset(X_test, y_test, reference=lgb_train)
 
 # specify your configurations as a dict
 params = {
