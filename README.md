@@ -8,6 +8,6 @@ lightGBMM的安装及使用请参考https://github.com/Microsoft/LightGBM
 
 2、在训练集中划出验证集
 
-3、使用lightGBM
+3、使用lightGBM训练模型及预测
 
 可直接运行python3 run.py完成验证过程
